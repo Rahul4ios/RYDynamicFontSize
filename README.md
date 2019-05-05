@@ -9,4 +9,4 @@ Through a simple macro, we can adjust the font sizes(or anything) automatically 
 ### Example:  
   
 </br>
-<img src = "https://github.com/Rahul4ios/RYDynamicFontSize/blob/master/Combined.jpg" width="600" height="428.339" />
+<img src = "https://github.com/Rahul4ios/RYDynamicFontSize/blob/master/Screenshot.png" width="600" height="428.339" />
